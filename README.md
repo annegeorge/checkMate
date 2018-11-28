@@ -1,2 +1,2 @@
 # checkmate
-Codeing exercise for Avero Inc.
+Coding exercise for Avero Inc.
